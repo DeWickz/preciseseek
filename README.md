@@ -1,5 +1,5 @@
 # PreciseSeek
-Customize your backward and forward seek times on popular video sites. For optimal experience, please use a device with a mappable (side) scroller or a (mechanical keyboard) knob.
+Customize your backward and forward seek times on (hopefully) all video sites. For optimal experience, please use a device with a mappable (side) scroller or a (mechanical keyboard) knob.
 
 ## What is this?
 It's a simple Chrome extension used to make the "-" and "=" keys into seeking keys (typically the functionality of arrow keys). The seek duration is customizable, allowing for a seek time as precise as you'd want.
