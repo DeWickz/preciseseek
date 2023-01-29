@@ -1,0 +1,72 @@
+/* This is the CSS file for options.html */
+
+body {
+  background-image: url("media/rickroll-roll.gif");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  font-family: "Roboto";
+}
+
+#header {
+  display: flex;
+  align-items: center; /* vertically center the items in the flex container */
+}
+
+#content{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 75vh;
+  padding: 25px;
+}
+
+h1 {
+  text-align: center;
+  font-size: 2em;
+  margin-bottom: 20px;
+  color: red;
+  font-family: "Roboto";
+}
+
+h1 span{
+  color: white;
+}
+
+form {
+  padding: 20px;
+}
+
+label {
+  text-align: center;
+  font-size: 16px;
+  font-weight: bold;
+  font-family: "Roboto Mono";
+  color: white;
+}
+
+input[type="number"] {
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  box-sizing: border-box;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+
+button[type="submit"] {
+  width: 100%;
+  background-color: #be0000;
+  color: white;
+  padding: 10px 20px;
+  margin: 8px 0;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  width: 100%;
+}
+
+button[type="submit"]:hover {
+  background-color: #ff0000;
+}
