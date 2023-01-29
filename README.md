@@ -28,4 +28,4 @@ It's a simple Chrome extension used to make the "-" and "=" keys into seeking ke
 
 
 ## Disclaimer
-Huge credit goes to OpenAI's ChatGPT for pretty much 90% of the work. If all you have is an idea but no idea how to materialize it, you can make it happen with the help of some cheeky artificial intelligence in this day and age.
+Huge credit goes to OpenAI's ChatGPT for pretty much 90% of the work. In this day and age, even if all you have is an idea, you can materialize it.
