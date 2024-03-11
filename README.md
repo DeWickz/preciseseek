@@ -5,7 +5,7 @@ Customize your backward and forward seek times on (hopefully) all video sites. F
 It's a simple Chrome extension used to make the "-" and "=" keys into seeking keys (typically the functionality of arrow keys). The seek duration is customizable, allowing for a seek time as precise as you'd want.
 
 ## How do I use this?
-- Download my files and place into a folder. a
+- Download my files and place into a folder.
 - In Chrome, go to Extensions -> Load Unpacked -> Import **the folder**
 - Once installed, click on the Extension -> Option -> pick whatever seek time you'd like and hit **Save**
 
